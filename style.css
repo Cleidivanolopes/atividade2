@@ -1,0 +1,11 @@
+#titulo{
+    background-color: purple;
+    color: white; 
+    text-align: center;
+} .subtitulo{
+    color: purple;
+    text-align: center;
+    border-bottom: 2px solid purple;
+}.team{
+    border-radius: 50%;
+}
